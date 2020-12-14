@@ -4,3 +4,8 @@ h1{
 P{
     color: gray;
 }
+button{
+    border: 1px 2px black;
+    color: yellow;
+    background-color: black;
+}
